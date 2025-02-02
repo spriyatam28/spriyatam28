@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @spriyatam28
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
 - 📫 How to reach me spriyatam28.work@gmail.com
 - 😄 Pronouns: He/Him
 

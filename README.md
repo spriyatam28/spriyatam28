@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @spriyatam28
-- 📫 How to reach me spriyatam28.work@gmail.com
-- 😄 Pronouns: He/Him
+# 👋 Hi there, I'm spriyatam28!
 
-<!---
-spriyatam28/spriyatam28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student Developer** | 💻 **Open Source Contributor** 
+---
+
+## About Me
+
+I'm a passionate student developer with a keen interest in building impactful software solutions. I enjoy contributing to open-source projects and continuously learning new technologies to enhance my skill set.
+
+---
+
+## Skills & Technologies
+
+- **Languages:** Python, Swift, JavaScript, Java
+- **Frameworks & Libraries:** Reactjs, TailwindCSS, Springboot, SwiftUI
+- **Tools & Platforms:** Git, GitHub, AWS, VS Code
+
+---
+
+## Notable Contributions
+
+- **Oppia**: Contributed to enhancing the user experience by fixing UI bugs in the embedded player, ensuring better accessibility across devices. [Issue #22133](https://github.com/oppia/oppia/issues/22133)
+
+---
+
+## 📫 Contact Me
+
+- **Email:** spriyatam28.work@gmail.com
+
+Feel free to reach out for collaboration or just to say hi!
+
+---
+

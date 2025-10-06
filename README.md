@@ -11,9 +11,10 @@ I'm a passionate student developer with a keen interest in building impactful so
 
 ## Skills & Technologies
 
-- **Languages:** Python, Swift, JavaScript, Java
-- **Frameworks & Libraries:** Reactjs, TailwindCSS, Springboot, SwiftUI
-- **Tools & Platforms:** Git, GitHub, AWS, VS Code
+- **Languages:** JavaScript, TypeScript, Java, SQL
+- **Frameworks & Libraries:** Angular, TailwindCSS, Springboot
+- **Tools & Platforms:** Git, GitHub, AWS, IntelliJ IDEA
+- **Database:** PostgreSQL
 
 ---
 

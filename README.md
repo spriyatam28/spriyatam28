@@ -14,9 +14,9 @@ I'm a passionate student developer with a keen interest in building impactful so
 
 ## Skills & Technologies
 
-- **Languages:** Swift, Python, Java, SQL
+- **Languages:** Swift, Java, C, SQL
 - **Frameworks & Libraries:** UIKit, SwiftUI, Springboot
-- **Tools & Platforms:** Git, GitHub, AWS, Xcode, IntelliJ IDEA
+- **Tools & Platforms:** Git, GitHub, Docker, AWS, Xcode, IntelliJ IDEA
 - **Databases:** PostgreSQL
 
 ---
